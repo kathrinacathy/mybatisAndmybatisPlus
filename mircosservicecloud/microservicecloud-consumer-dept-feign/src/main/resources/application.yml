@@ -11,7 +11,29 @@ eureka:
 spring:
   application:
     name: microservicecloud-consumer-dept-feign
+  http:
+    multipart:
+      max-file-size: 10485760
 
 feign:
   hystrix:
     enabled: true
+
+#ribbon.ReadTimeout=60000
+#ribbon.ConnectTimeout=60000
+#测试文件上传添加的
+#ribbon:
+#  MaxAutoRetries: 1 #最大重试次数，当Eureka中可以找到服务，但是服务连不上时将会重试
+#  MaxAutoRetriesNextServer: 1 #切换实例的重试次数
+#  OkToRetryOnAllOperations: false # 对所有的操作请求都进行重试，如果是get则可以，如果是post,put等操作没有实现幂等的情况下是很危险的，所以设置为false
+#  ConnectTimeout: 1000 #请求连接的超时时间
+#  ReadTimeout: 1800 #请求处理的超时时间
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 3000
+            #如果配置ribbon的重试，hystrix的超时时间要大于ribbon的超时时间，ribbon才会重试
+            #hystrix的超时时间=(1 + MaxAutoRetries + MaxAutoRetriesNextServer) * ReadTimeout 比较好，具体看需求

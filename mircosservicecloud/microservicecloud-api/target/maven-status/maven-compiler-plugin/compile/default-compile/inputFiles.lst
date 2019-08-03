@@ -1,3 +1,12 @@
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\IFeignAttendanceService.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\InitialService.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\CommonScheduled.java
 G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\DeptClientService.java
 G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\DeptClientServiceFallbackFactory.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\jpa\core\baseRepository\BaseHibernate4QueryDao.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\impl\InitialServiceImpl.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\CommonTask.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\fallback\DeptServiceFallback.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\service\fallback\IFeignAttendanceFallback.java
+G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\config\FeignConfig.java
 G:\ideaIU-2018.1.4.win\IdeaProjects\mircosservicecloud\microservicecloud-api\src\main\java\com\atguigu\springcloud\entities\Dept.java

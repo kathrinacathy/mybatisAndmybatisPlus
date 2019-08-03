@@ -27,7 +27,7 @@ info:
 zuul:
   routes:
     mydept.serviceId: microservicecloud-provider-dept
-    mydept.path: /mydept/**
+    mydept.path: /mydept/**    #服务名字映射
   #ignored-services: microservicecloud-dept  #这个就是真实服务名字无法访问，如果是所有的都忽略就用*表示如
   ignored-services: "*"
   prefix: /atguigu    #添加前缀

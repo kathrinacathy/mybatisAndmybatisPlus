@@ -1,17 +1,18 @@
 package com.atguigu.springcloud.controller;
 
-import com.atguigu.springcloud.entities.Dept;
-import com.atguigu.springcloud.service.DeptService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RequestPart;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 
@@ -33,37 +34,15 @@ public class DeptController {
 
     private static final Logger logger  = LoggerFactory.getLogger(DeptController.class);
 
-    @Autowired
-    private DeptService service;
 
     @Autowired
     private DiscoveryClient client;
 
-    @RequestMapping(value="/dept/add",method=RequestMethod.POST)
-    public boolean add(@RequestBody Dept dept)
-    {
-        return service.add(dept);
-    }
 
-    @RequestMapping(value="/dept/get/{id}",method=RequestMethod.GET)
-    public Dept get(@PathVariable("id") Long id)
-    {
-        logger.info("服务端8001 get方法中参数{}",id);
-        Dept dept = service.get(id);
-        logger.info("返回的参数：{}",new Object[]{dept});
-        return dept;
-    }
 
-    @RequestMapping(value="/dept/list",method=RequestMethod.GET)
-    public List<Dept> list()
-    {
-        logger.info("服务端 list方法。。。。");
-        return service.list();
-    }
-
-    @RequestMapping(value="/dept/hello",method=RequestMethod.GET)
+    @RequestMapping(value="/dept/getHello",method=RequestMethod.POST)
     public String hello(){
-        return  "hello...";
+        return  "hello";
     }
 
     @RequestMapping(value = "/dept/discovery", method = RequestMethod.GET)
@@ -78,5 +57,22 @@ public class DeptController {
                     + element.getUri());
         }
         return this.client;
+    }
+
+
+    @PostMapping(value = "/dept/uploadFile", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+    public String handleFileUpload(@RequestPart(value = "file") MultipartFile file,@RequestParam("prefixName")String prefixName) {
+        logger.info("获取上传文件，file={}",file.getOriginalFilename());
+        logger.info("获取上传文件参数，prefixName={}",prefixName);
+
+        return file.getName();
+    }
+
+
+
+    @PostMapping(value = "/upload-file",consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+    public String fileUpload(@RequestPart("file") MultipartFile file) {
+        logger.info("服务端经过微服务接收到文件：fileName={}",file.getOriginalFilename());
+        return file.getOriginalFilename();
     }
 }

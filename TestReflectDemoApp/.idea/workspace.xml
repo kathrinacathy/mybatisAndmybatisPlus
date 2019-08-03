@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/atguigu/strategy/strategyDemo1/MainCLass.java" line="12" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1207a9aa-0c0a-4a02-8c3e-e303f3767094" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,135 +18,107 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestReflectDemoApp" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestMethod.java">
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Context.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="109" column="35" selection-end-line="120" />
+            <state relative-caret-position="313">
+              <caret line="37" lean-forward="true" selection-start-line="14" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Minus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Plus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Plus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/MainClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="26" lean-forward="true" selection-start-line="1" selection-end-line="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestConstructor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestConstructor.java">
+      <file leaf-file-name="Expression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/Expression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="54" column="1" lean-forward="true" selection-end-line="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestOther.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestOther.java">
+      <file leaf-file-name="PlusExpression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/PlusExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="95" column="5" lean-forward="true" selection-end-line="97" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reflectTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest.java">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reflectTest1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest1.java">
+      <file leaf-file-name="Expression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Expression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Creature.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Creature.java">
+      <file leaf-file-name="MinusExpression.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/MinusExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestCglibProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestCglibProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="56" />
-              <folding>
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestFileld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestFileld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="3" lean-forward="true" selection-end-line="110" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestCglib2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestCglib2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#1473#1474#0" expanded="true" />
-                <element signature="e#1531#1532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAOP.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestAOP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -153,8 +128,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -170,26 +146,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Preson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Creature.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/MyInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/MyAnnotation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/Creature.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest1/TestClothProduct.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestConstructor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestConstructor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestOther.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Person.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestFileld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestClothProduct.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestAOP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestCglibProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestCglib2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo2/FlipOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo2/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo2/Light.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo2/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/chainOfResponsibility/corDemo2/MyHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo3/Peddle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo3/BananaCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo3/AppleCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo3/Waiter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo3/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo3/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo4/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo4/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/command/commandDemo4/Waiter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementoDemo1/Mementor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/MainClasss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementoDemo1/Original.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/Storage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementoDemo1/Storage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/CareTaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/Mementor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo1/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo1/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/MState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/SState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/NoState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/LState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/ParkElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/Park.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/ParkA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/ParkB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/VisitorA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/VisitorB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/VisitorManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Man.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Woman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/Expression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/PlusExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/MinusExpression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/MainClass.java" />
       </list>
     </option>
   </component>
@@ -214,6 +221,12 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="10" />
   </component>
@@ -221,10 +234,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="206" />
-    <option name="y" value="42" />
-    <option name="width" value="1014" />
-    <option name="height" value="678" />
+    <option name="x" value="-26" />
+    <option name="y" value="344" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -232,6 +245,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -283,7 +297,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
@@ -293,8 +307,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="InstanceTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreter" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreteDemo2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
@@ -304,59 +318,39 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="instancetestProxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mediator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestReflectDemoApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestReflectDemoApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestReflectDemoApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestReflectDemoApp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="mediatorDemo2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestReflectDemoApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestReflectDemoApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="testReflect" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis_day" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -365,7 +359,13 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.designPatterns.SimpleFactory" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ideaIU-2018.1.4.win\IdeaProjects\TestReflectDemoApp\src\main\java\com\atguigu\command\commandDemo4" />
+      <recent name="G:\ideaIU-2018.1.4.win\IdeaProjects\TestReflectDemoApp\src\main\java\com\atguigu\designPatterns\abstractFactory" />
+      <recent name="G:\ideaIU-2018.1.4.win\IdeaProjects\TestReflectDemoApp\src\main\java\com\atguigu\designPatterns\methodFactory" />
       <recent name="G:\ideaIU-2018.1.4.win\IdeaProjects\TestReflectDemoApp\src\main\java\com\atguigu\reflect\InstanceTest1" />
       <recent name="G:\ideaIU-2018.1.4.win\IdeaProjects\TestReflectDemoApp\src\main\java\com\atguigu\reflect\InstanceTest" />
     </key>
@@ -382,58 +382,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCglib2">
-    <configuration name="TestAOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.reflect.instancetestProxy.TestAOP" />
+  <component name="RunManager" selected="Application.MainClass (1)">
+    <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.interpreter.interpreteDemo2.MainClass" />
       <module name="TestReflectDemoApp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.reflect.instancetestProxy.*" />
+          <option name="PATTERN" value="com.atguigu.interpreter.interpreteDemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestCglib2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.reflect.instancetestProxy.TestCglib2" />
+    <configuration name="MainClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.visitor.visitorDemo2.MainClass" />
       <module name="TestReflectDemoApp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.reflect.instancetestProxy.*" />
+          <option name="PATTERN" value="com.atguigu.visitor.visitorDemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestCglibProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.reflect.instancetestProxy.TestCglibProxy" />
+    <configuration name="MainClass (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mediator.mediaorDemo1.MainClass" />
       <module name="TestReflectDemoApp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.reflect.instancetestProxy.*" />
+          <option name="PATTERN" value="com.atguigu.mediator.mediaorDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestClothProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.reflect.instancetestProxy.TestClothProduct" />
+    <configuration name="MainClass (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mediator.mediatorDemo2.MainClass" />
       <module name="TestReflectDemoApp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.reflect.instancetestProxy.*" />
+          <option name="PATTERN" value="com.atguigu.mediator.mediatorDemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.reflect.instancetestProxy.TestProxy" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.interpreter.interpreterDemo1.MainClass" />
       <module name="TestReflectDemoApp" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.reflect.instancetestProxy.*" />
+          <option name="PATTERN" value="com.atguigu.interpreter.interpreterDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,19 +480,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TestClothProduct" />
-      <item itemvalue="Application.TestProxy" />
-      <item itemvalue="Application.TestAOP" />
-      <item itemvalue="Application.TestCglibProxy" />
-      <item itemvalue="Application.TestCglib2" />
+      <item itemvalue="Application.MainClass (2)" />
+      <item itemvalue="Application.MainClass (3)" />
+      <item itemvalue="Application.MainClass (5)" />
+      <item itemvalue="Application.MainClass (1)" />
+      <item itemvalue="Application.MainClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCglib2" />
-        <item itemvalue="Application.TestCglibProxy" />
-        <item itemvalue="Application.TestProxy" />
-        <item itemvalue="Application.TestAOP" />
-        <item itemvalue="Application.TestClothProduct" />
+        <item itemvalue="Application.MainClass (1)" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.MainClass (5)" />
+        <item itemvalue="Application.MainClass (3)" />
+        <item itemvalue="Application.MainClass (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +510,32 @@
       <workItem from="1557466662879" duration="12584000" />
       <workItem from="1557709668671" duration="603000" />
       <workItem from="1557710611561" duration="11508000" />
-      <workItem from="1557752717261" duration="15026000" />
+      <workItem from="1557752717261" duration="15528000" />
+      <workItem from="1557796103204" duration="4553000" />
+      <workItem from="1557844866516" duration="6362000" />
+      <workItem from="1557900037575" duration="10861000" />
+      <workItem from="1557923874921" duration="12174000" />
+      <workItem from="1557972266747" duration="12768000" />
+      <workItem from="1558014765576" duration="6910000" />
+      <workItem from="1558055191902" duration="1650000" />
+      <workItem from="1558314341757" duration="2727000" />
+      <workItem from="1558330480651" duration="8621000" />
+      <workItem from="1558365704004" duration="2130000" />
+      <workItem from="1558407490779" duration="2342000" />
+      <workItem from="1558416667782" duration="8694000" />
+      <workItem from="1558487265459" duration="22917000" />
+      <workItem from="1558573796368" duration="8470000" />
+      <workItem from="1558590180467" duration="8187000" />
+      <workItem from="1558661008215" duration="4732000" />
+      <workItem from="1558687044386" duration="4910000" />
+      <workItem from="1558919363429" duration="15263000" />
+      <workItem from="1558962740039" duration="2841000" />
+      <workItem from="1559005548901" duration="585000" />
+      <workItem from="1559055458230" duration="606000" />
+      <workItem from="1559092705887" duration="679000" />
+      <workItem from="1559233800858" duration="1605000" />
+      <workItem from="1559265365487" duration="1999000" />
+      <workItem from="1559285208279" duration="3523000" />
     </task>
     <servers />
   </component>
@@ -547,7 +572,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43786000" />
+    <option name="totallyTimeSpent" value="200397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -558,30 +583,61 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.25127333" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31239387" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293718" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.34125638" visible="true" weight="0.2526475" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.6587436" side_tool="true" weight="0.21785174" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
+      <window_info id="Favorites" order="2" sideWeight="0.503386" side_tool="true" weight="0.21785174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14091681" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.24787776" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.6587436" side_tool="true" weight="0.21785174" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.34125638" visible="true" weight="0.21785174" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14091681" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.25127333" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3293718" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" sideWeight="0.503386" side_tool="true" weight="0.21785174" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -591,392 +647,402 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/ProductOwnerSourceCodeProxy.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/ProductOwnerSourceCodeProxy.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/ProductOwnerSourceCodeProxy.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementoDemo1/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="313">
+          <caret line="24" lean-forward="true" selection-start-line="1" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementoDemo1/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="179">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        <state relative-caret-position="298">
+          <caret line="67" column="1" lean-forward="true" selection-start-line="3" selection-end-line="67" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestFileld.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/Mementor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="298">
+          <caret line="48" lean-forward="true" selection-start-line="2" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestFileld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7230">
-          <caret line="482" column="20" lean-forward="true" selection-start-line="482" selection-start-column="20" selection-end-line="482" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/CareTaker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/MyInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/memento/mementorDemo2/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/SuppressWarnings.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo1/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo1/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        <state relative-caret-position="52">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/SuppressWarnings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/MyAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/Creature.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest1/TestClothProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestField.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo1/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="39" column="36" selection-start-line="33" selection-start-column="12" selection-end-line="39" selection-end-column="36" />
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="51" column="25" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="25" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/InstanceTest/TestConstructor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/MState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/LState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/SState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <caret line="15" selection-start-line="15" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Field.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/NoState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="383" column="18" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="18" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
-          <folding>
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="29">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="53" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Proxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/state/stateDemo2/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="729" column="42" selection-start-line="729" selection-start-column="41" selection-end-line="729" selection-end-column="42" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestClothProduct.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo1/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo1/MyVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/proxy/Callback.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo1/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo1/MySubject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <caret line="4" selection-start-line="4" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo1/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="2" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/VisitorA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/VisitorB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="14" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/VisitorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/ParkElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/ParkA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/ParkB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/Park.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/visitor/visitorDemo2/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediaorDemo1/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediaorDemo1/MyMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediaorDemo1/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediaorDemo1/User1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediaorDemo1/User2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediaorDemo1/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="46" selection-start-line="2" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Woman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="1" selection-start-line="14" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="53" selection-start-line="14" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/mediator/mediatorDemo2/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="37" lean-forward="true" selection-start-line="14" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreterDemo1/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestAOP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="313">
+          <caret line="26" lean-forward="true" selection-start-line="1" selection-end-line="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/reflect/FastClass.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="101" column="27" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/MinusExpression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/PlusExpression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="560" column="26" selection-start-line="560" selection-start-column="12" selection-end-line="560" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestCglib2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/interpreter/interpreteDemo2/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#1473#1474#0" expanded="true" />
-            <element signature="e#1531#1532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/instancetestProxy/TestCglibProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="56" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestFileld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="3" lean-forward="true" selection-end-line="110" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="109" column="35" selection-end-line="120" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="54" column="1" lean-forward="true" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/testReflect/TestOther.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="95" column="5" lean-forward="true" selection-end-line="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/reflectTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/reflect/Creature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="405">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1067,6 +1133,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

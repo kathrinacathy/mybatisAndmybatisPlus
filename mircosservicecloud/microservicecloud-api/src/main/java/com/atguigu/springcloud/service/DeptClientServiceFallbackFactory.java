@@ -3,6 +3,7 @@ package com.atguigu.springcloud.service;
 import com.atguigu.springcloud.entities.Dept;
 import feign.hystrix.FallbackFactory;
 import org.springframework.stereotype.Component;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 
@@ -38,6 +39,16 @@ public class DeptClientServiceFallbackFactory implements FallbackFactory<DeptCli
             @Override
             public List<Dept> list() {
                 return null;
+            }
+
+            @Override
+            public String getHello() {
+                return "测试Fallback，另一种方式是实现DeptClientService接口，达到熔断，降级响应";
+            }
+
+            @Override
+            public String handleFileUpload(MultipartFile file) {
+                return "测试文件上传，响应失败";
             }
         };
     }

@@ -2,7 +2,6 @@ package com.atguigu.springcloud.jpa.core.baseRepository;
 
 import org.springframework.stereotype.Repository;
 
-import javax.persistence.EntityManager;
 import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.TypeVariable;
@@ -23,7 +22,7 @@ import java.util.Collection;
 @Repository("baseQueryDao")
 public class BaseHibernate4QueryDao<E extends Serializable> {
 
-    private EntityManager em;
+   /* private EntityManager em;
     protected Class<E> entityClass = null;
 
     public BaseHibernate4QueryDao() {
@@ -59,10 +58,10 @@ public class BaseHibernate4QueryDao<E extends Serializable> {
     }
 
 
-    /**
+    *//**
      * 不确定entity状态
      * @param entity
-     */
+     *//*
     public void save(E entity) {
         if(! em.contains(entity)) {
             em.merge(entity);
@@ -91,16 +90,17 @@ public class BaseHibernate4QueryDao<E extends Serializable> {
         return em.find(entityClass,id);
     }
 
-    /**
+    *//**
      * HQL查询语句返回单个entity对象，参数位置参数（pasitional parameter）
      * @param hql
      * @param values
      * @return
-     */
+     *//*
 
     protected E findOneEntityObject(final String hql,final Object[] values) {
-        return findOneEntityObject(hql,null,values);
-    }
+//        return findOneEntityObject(hql,null,values);
+        return null;
+    }*/
 
 
 }
